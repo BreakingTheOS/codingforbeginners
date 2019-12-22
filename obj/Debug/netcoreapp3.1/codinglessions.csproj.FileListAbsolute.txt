@@ -1,0 +1,11 @@
+C:\Users\daenrigh\codinglessions\bin\Debug\netcoreapp3.1\codinglessions.exe
+C:\Users\daenrigh\codinglessions\bin\Debug\netcoreapp3.1\codinglessions.deps.json
+C:\Users\daenrigh\codinglessions\bin\Debug\netcoreapp3.1\codinglessions.runtimeconfig.json
+C:\Users\daenrigh\codinglessions\bin\Debug\netcoreapp3.1\codinglessions.runtimeconfig.dev.json
+C:\Users\daenrigh\codinglessions\bin\Debug\netcoreapp3.1\codinglessions.dll
+C:\Users\daenrigh\codinglessions\bin\Debug\netcoreapp3.1\codinglessions.pdb
+C:\Users\daenrigh\codinglessions\obj\Debug\netcoreapp3.1\codinglessions.csprojAssemblyReference.cache
+C:\Users\daenrigh\codinglessions\obj\Debug\netcoreapp3.1\codinglessions.AssemblyInfoInputs.cache
+C:\Users\daenrigh\codinglessions\obj\Debug\netcoreapp3.1\codinglessions.AssemblyInfo.cs
+C:\Users\daenrigh\codinglessions\obj\Debug\netcoreapp3.1\codinglessions.dll
+C:\Users\daenrigh\codinglessions\obj\Debug\netcoreapp3.1\codinglessions.pdb
